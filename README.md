@@ -1,2 +1,6 @@
-# GameOfLife
-An easy implementation of Conway's Game of Life just for practice purposes
+# Cellular Automaton
+A collection of Cellular Automaton project
+
+List of projects currently added:
+
+··* Conway's Game of Life
